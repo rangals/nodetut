@@ -1,0 +1,23 @@
+{
+  "name": "nodetut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rangals/nodetut.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rangals/nodetut/issues"
+  },
+  "homepage": "https://github.com/rangals/nodetut#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
